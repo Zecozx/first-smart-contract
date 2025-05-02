@@ -53,4 +53,4 @@ MIT — feel free to use, fork, or build on top of it.
 ---
 
 ## 📬 Let's Connect!
-Learning Web3? Drop a message or connect with me on [LinkedIn](https://www.linkedin.com).
+Learning Web3? Drop a message or connect with me on [LinkedIn](https://www.linkedin.com/in/zecolie-p-9812a8358/).
