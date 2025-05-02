@@ -5,11 +5,9 @@ contract SimpleStorage {
     
     uint256 myFavoriteNumber; // 0
 
-    // uint256[] listOfFavoriteNumbers; // [0, 11, 13, 15]
-
     struct Person{ 
         uint256 favoriteNumber;  
-        string name;   
+        string name;
     }
     
     // dynamic array
@@ -19,7 +17,7 @@ contract SimpleStorage {
     mapping(string => uint256) public nameToFavoriteNumber;
     
     // store myfavoritenumber
-    function store(uint256 _favoriteNumber) public visual {
+    function store(uint256 _favoriteNumber) public {
         myFavoriteNumber = _favoriteNumber;
     }
 
